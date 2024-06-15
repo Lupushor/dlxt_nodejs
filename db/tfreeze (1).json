@@ -1,9 +1,0 @@
-[
-  {
-    "type": "header",
-    "version": "5.1.1deb5ubuntu1",
-    "comment": "Export to JSON plugin for PHPMyAdmin"
-  },
-  { "type": "database", "name": "dlxt_1" },
-  { "type": "table", "name": "tfreeze", "database": "dlxt_1", "data": [] }
-]
