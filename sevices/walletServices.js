@@ -15,6 +15,7 @@ const getAllWalletsService = async () => {
 const getWalletService = async (id) => {
   const wallets = await getAllWalletsService();
   const wallet = wallets.find((wallet) => wallet.id === id);
+  console.log(wallet);
 
   if (!wallet) {
     throw new HttpError(404, "This wallet id does not exist");
