@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "deposit": "0.0000000000",
+    "turnover": "0.0000000000",
+    "forging": "0.0000000000",
+    "cnt_user": "0",
+    "lck": "0",
+    "novis": "1",
+    "comm": "Active"
+  },
+  {
+    "id": "2",
+    "deposit": "100.0000000000",
+    "turnover": "0.0000000000",
+    "forging": "0.0000000000",
+    "cnt_user": "1",
+    "lck": "0",
+    "novis": "0",
+    "comm": "Partner"
+  },
+  {
+    "id": "3",
+    "deposit": "1000.0000000000",
+    "turnover": "10000.0000000000",
+    "forging": "100.0000000000",
+    "cnt_user": "5",
+    "lck": "0",
+    "novis": "0",
+    "comm": "Manager"
+  },
+  {
+    "id": "4",
+    "deposit": "10000.0000000000",
+    "turnover": "100000.0000000000",
+    "forging": "1000.0000000000",
+    "cnt_user": "10",
+    "lck": "0",
+    "novis": "0",
+    "comm": "Leader"
+  },
+  {
+    "id": "5",
+    "deposit": "50000.0000000000",
+    "turnover": "500000.0000000000",
+    "forging": "5000.0000000000",
+    "cnt_user": "25",
+    "lck": "0",
+    "novis": "0",
+    "comm": "Top Leader"
+  },
+  {
+    "id": "6",
+    "deposit": "100000.0000000000",
+    "turnover": "1000000.0000000000",
+    "forging": "10000.0000000000",
+    "cnt_user": "50",
+    "lck": "0",
+    "novis": "0",
+    "comm": "Director"
+  },
+  {
+    "id": "7",
+    "deposit": "1000000.0000000000",
+    "turnover": "10000000.0000000000",
+    "forging": "100000.0000000000",
+    "cnt_user": "100",
+    "lck": "0",
+    "novis": "0",
+    "comm": "VIP"
+  },
+  {
+    "id": "8",
+    "deposit": "0.0000000000",
+    "turnover": "0.0000000000",
+    "forging": "0.0000000000",
+    "cnt_user": "0",
+    "lck": "0",
+    "novis": "1",
+    "comm": "Removed"
+  }
+]

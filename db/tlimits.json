@@ -1,0 +1,58 @@
+[
+  {
+    "tlg_id": "0",
+    "cur": "DLXT",
+    "isOuter": "0",
+    "lck": "0",
+    "min_work": "0.0000000000",
+    "min_send": "0.1000000000",
+    "max_send": "10000.0000000000",
+    "day_limit": "0.0000000000",
+    "day_count_limit": "0",
+    "per_burn": "1.00",
+    "fix_burn": "0.0000000000",
+    "addr_burn": "TW8TBMYVRedZcUU12uX7EK5RnKafEbhZTk"
+  },
+  {
+    "tlg_id": "0",
+    "cur": "DLXT",
+    "isOuter": "1",
+    "lck": "0",
+    "min_work": "0.0000000000",
+    "min_send": "0.1000000000",
+    "max_send": "10000.0000000000",
+    "day_limit": "0.0000000000",
+    "day_count_limit": "0",
+    "per_burn": "1.00",
+    "fix_burn": "0.0000000000",
+    "addr_burn": "TW8TBMYVRedZcUU12uX7EK5RnKafEbhZTk"
+  },
+  {
+    "tlg_id": "0",
+    "cur": "TRX",
+    "isOuter": "0",
+    "lck": "0",
+    "min_work": "10.0000000000",
+    "min_send": "1.0000000000",
+    "max_send": "10000.0000000000",
+    "day_limit": "0.0000000000",
+    "day_count_limit": "0",
+    "per_burn": "1.00",
+    "fix_burn": "0.0000000000",
+    "addr_burn": "TBPN7pBsiFdgBvkKQzQKGe4T4BTQw6p7pD"
+  },
+  {
+    "tlg_id": "0",
+    "cur": "TRX",
+    "isOuter": "1",
+    "lck": "0",
+    "min_work": "10.0000000000",
+    "min_send": "1.0000000000",
+    "max_send": "10000.0000000000",
+    "day_limit": "0.0000000000",
+    "day_count_limit": "0",
+    "per_burn": "5.00",
+    "fix_burn": "0.0000000000",
+    "addr_burn": "TBPN7pBsiFdgBvkKQzQKGe4T4BTQw6p7pD"
+  }
+]

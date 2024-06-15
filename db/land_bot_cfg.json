@@ -1,0 +1,30 @@
+[
+  {
+    "name": "chat_support",
+    "ivalue": "1",
+    "svalue": "http://t.me/Diplexto_Support_bot"
+  },
+  { "name": "main_bot", "ivalue": "0", "svalue": "" },
+  {
+    "name": "main_bot_img",
+    "ivalue": "1",
+    "svalue": "AgACAgIAAxkBArx3TWGbbah_jE_n_0AlIXbRFpiXc4ELAAKotTEbH9mpSvTdPpaLAgT_AQADAgADbQADIgQ"
+  },
+  {
+    "name": "main_img",
+    "ivalue": "1",
+    "svalue": "AgACAgIAAxkBArx3TWGbbah_jE_n_0AlIXbRFpiXc4ELAAKotTEbH9mpSvTdPpaLAgT_AQADAgADbQADIgQ"
+  },
+  { "name": "partners", "ivalue": "1", "svalue": "" },
+  { "name": "spam_nums", "ivalue": "1", "svalue": "5000,10000,20000" },
+  {
+    "name": "spam_res_admins",
+    "ivalue": "1",
+    "svalue": "313049496,212246892,618622894"
+  },
+  {
+    "name": "supp_img",
+    "ivalue": "1",
+    "svalue": "AgACAgIAAxkBArx3TWGbbah_jE_n_0AlIXbRFpiXc4ELAAKotTEbH9mpSvTdPpaLAgT_AQADAgADbQADIgQ"
+  }
+]
