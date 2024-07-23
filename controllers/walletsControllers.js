@@ -19,8 +19,8 @@ const getWallet = async (req, res, next) => {
   try {
     const { walletId } = req.params;
     const wallet = getWalletService(walletId);
-    console.log("wallet:", wallet);
-    console.log("walletId:", walletId);
+    // console.log("wallet:", wallet);
+    // console.log("walletId:", walletId);
     res.json(wallet);
   } catch (error) {
     next(error);
@@ -29,6 +29,7 @@ const getWallet = async (req, res, next) => {
 
 const addWallet = async (req, res, next) => {
   try {
+    console.log(req.body);
     const wallet = addWalletService(req.body);
     res.json(wallet);
   } catch (error) {

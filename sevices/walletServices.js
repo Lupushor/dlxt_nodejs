@@ -3,6 +3,7 @@ const path = require("path");
 const crypto = require("crypto");
 
 const HttpError = require("../utils/HttpError");
+const { ChildProcess } = require("child_process");
 
 // const walletPath = path.join(__dirname, "..", "db", "twallets.json");
 const walletPath = path.join(process.cwd(), "db", "twallets.json");
@@ -13,6 +14,7 @@ const getAllWalletsService = async () => {
 };
 
 const getWalletService = async (id) => {
+  console.log(id);
   const wallets = await getAllWalletsService();
   const wallet = wallets.find((wallet) => wallet.id === id);
   console.log(wallet);
